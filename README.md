@@ -1,4 +1,4 @@
-#<h3 align="left">About me</h3>
+#HI <h3 align="left">About me</h3>
 ``` 
 const carloslooopez = {
   location: "🌍 [Utah, US]",
@@ -10,6 +10,7 @@ const carloslooopez = {
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">Carlosalopezgus@gmail.com
+  https://www.linkedin.com/in/carlos-lopezg/
 </p>
 
 <div align="center">
