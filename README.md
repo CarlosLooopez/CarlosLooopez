@@ -1,6 +1,6 @@
-
+```
 <h3 align="left">About me</h3>
-``` javascript
+``` 
 const carloslooopez = {
   location: "🌍 [Utah, US]",
   currentFocus: "🧠 [Expanding my skills while seeking Full Stack opportunities]",
